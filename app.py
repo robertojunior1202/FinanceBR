@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 data_init = "01/01/1980"
 data_fim = "16/03/2025"
-
+ 
 # Título da página
 st.title("FinanceBR - Dados Financeiros")
 
